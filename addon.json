@@ -1,0 +1,20 @@
+{
+  "title": "Landing Beacon",
+  "type": "weapon",
+  "tags": [
+    "roleplay",
+    "scifi",
+    "starwars",
+    "tool"
+  ],
+  "ignore": [
+    "*.psd",
+    "*.smd",
+    "*.qc",
+    "*.blend",
+    "modelsrc/*"
+  ],
+  "author": "YourName",
+  "description": "Throwable Landing Beacon SWEP for GMod. Players throw a beacon that sticks, can be activated with E to light up and spawn a red laser rope, and auto-despawns after a configurable time. Server admins control beacon settings via ConVars.",
+  "version": "1.0.0"
+}
