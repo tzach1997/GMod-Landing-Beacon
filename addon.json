@@ -2,10 +2,6 @@
   "title": "Landing Beacon",
   "type": "weapon",
   "tags": [
-    "roleplay",
-    "scifi",
-    "starwars",
-    "tool"
   ],
   "ignore": [
     "*.psd",
